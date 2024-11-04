@@ -5,11 +5,6 @@ This is a simple Flutter app that displays a list of transactions fetched from a
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [API](#api)
-- [Testing](#testing)
-- [Dependencies](#dependencies)
-
 ## Features
 - Displays a list of transactions with details.
 - Fetches data from a REST API.
